@@ -7,3 +7,6 @@
 [submodule "vimfiles/bundle/snipmate.vim"]
 	path = vimfiles/bundle/snipmate.vim
 	url = https://github.com/garbas/vim-snipmate.git
+[submodule "vimfiles/bundle/vim-flake8"]
+	path = vimfiles/bundle/vim-flake8
+	url = https://github.com/nvie/vim-flake8.git
