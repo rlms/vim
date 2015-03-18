@@ -19,3 +19,6 @@
 [submodule "vimfiles/bundle/snipmate.git"]
 	path = vimfiles/bundle/snipmate.git
 	url = https://github.com/msanders/snipmate.vim.git
+[submodule "vimfiles/bundle/vim-fugitive"]
+	path = vimfiles/bundle/vim-fugitive
+	url = https://github.com/tpope/vim-fugitive.git
