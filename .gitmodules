@@ -10,3 +10,6 @@
 [submodule "vimfiles/bundle/vim-flake8"]
 	path = vimfiles/bundle/vim-flake8
 	url = https://github.com/nvie/vim-flake8.git
+[submodule "vimfiles/bundle/syntastic"]
+	path = vimfiles/bundle/syntastic
+	url = https://github.com/scrooloose/syntastic.git
