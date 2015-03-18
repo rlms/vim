@@ -1,3 +1,0 @@
-print(a)
-asd
-asdjfklj
