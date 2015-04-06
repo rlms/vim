@@ -19,7 +19,7 @@ It also contains my vimrc, which doesn't have anything interesting in yet.
 Installation
 ------------
 
-This repo is organized based on [this](http://vimcasts.org/episodes/synchronizing-plugins-with-git-submodules-and-pathogen/) vimcast. To install, do this:
+This repo is organized based on [this](http://vimcasts.org/episodes/synchronizing-plugins-with-git-submodules-and-pathogen/) vimcast. To install on linux, do this:
 
     $ cd ~
     $ git clone https://github.com/sweeneyrod/vim.git ~/.vim
