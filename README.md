@@ -21,11 +21,11 @@ Installation
 
 This repo is organized based on [this](http://vimcasts.org/episodes/synchronizing-plugins-with-git-submodules-and-pathogen/) vimcast. To install, do this:
 
-    cd ~
-    git clone https://github.com/sweeneyrod/vim.git ~/.vim
-    cd ~/.vim
-    git submodule init
-    git submodule update
+    $ cd ~
+    $ git clone https://github.com/sweeneyrod/vim.git ~/.vim
+    $ cd ~/.vim
+    $ git submodule init
+    $ git submodule update
 
 Todo
 ----
