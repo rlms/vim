@@ -27,6 +27,7 @@ This repo is organized based on [this](http://vimcasts.org/episodes/synchronizin
     $ cd ~/.vim
     $ git submodule init
     $ git submodule update
+    $ ln -s ~/.vim/vimrc ~/.vimrc
 
 Todo
 ----
