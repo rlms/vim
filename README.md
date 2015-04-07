@@ -4,13 +4,14 @@ My Vim setup
 My Vim setup. Currently optimized for Python 3, with some consideration for HTML and JavaScript.
 
 Plugins used:
-nerdcommenter
-rainbow parentheses
-snipmate
-syntastic
-fugitive
-repeat
-surround
+
+- nerdcommenter
+- rainbow parentheses
+- snipmate
+- syntastic
+- fugitive
+- repeat
+- surround
 
 and the solarized colour scheme.
 
