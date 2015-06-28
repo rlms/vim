@@ -32,6 +32,7 @@ set shiftwidth=4
 set softtabstop=4
 set expandtab
 set autoindent
+set pastetoggle=<F2>
 
 set textwidth=80
 set list
@@ -44,3 +45,6 @@ set wildmenu
 
 au Syntax * RainbowParenthesesLoadRound
 au Syntax * RainbowParenthesesLoadSquare
+
+autocmd FileType ruby setlocal tabstop=2 shiftwidth=2 expandtab
+autocmd FileType html setlocal tabstop=2 shiftwidth=2 expandtab
