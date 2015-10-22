@@ -40,7 +40,8 @@ set listchars=tab:»·,trail:·
 set backspace=indent,eol,start
 set ruler
 set relativenumber
-set noerrorbells
+set noerrorbells visualbell t_vb=
+autocmd GUIEnter * set visualbell t_vb=
 set wildmenu
 
 au Syntax * RainbowParenthesesLoadRound
